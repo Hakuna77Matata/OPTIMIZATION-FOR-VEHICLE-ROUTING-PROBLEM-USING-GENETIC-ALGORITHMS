@@ -38,7 +38,7 @@ Ensure you have Python 3.x installed on your system.
 
 ## Project Structure
 
-VehicleRouting/ │ ├── code/ │ ├── vrp_genetic_algorithm.py # Main script containing the VRP solution │ ├── results/ │ └── plots/ # Folder to store output plots │ ├── venv/ # Virtual environment directory (optional) ├── requirements.txt # Python dependencies ├── README.md # Project documentation (this file) └── .gitignore # Ignored files (e.g., venv, data files)
+VehicleRouting/ ├── code/ │ └── vrp_genetic_algorithm.py # Main script containing the VRP solution ├── results/ │ └── plots/ # Folder to store output plots ├── venv/ # Virtual environment directory (optional) ├── requirements.txt # Python dependencies ├── README.md # Project documentation (this file) └── .gitignore # Ignored files (e.g., venv, data files)
 
 
 ## Usage
